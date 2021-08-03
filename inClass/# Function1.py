@@ -56,3 +56,4 @@ def change(x):
 # 함수의 호출
 change(wordlist)
 print("함수 호출후:", wordlist)
+# ㅅㄴㅁㅇ라ㅓ미낭러ㅣㅏㅁ넝리ㅏㅁ널아ㅣㅁ넝리ㅏㅁ넝ㄹ
